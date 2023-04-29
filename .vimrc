@@ -1,6 +1,6 @@
 set nobackup
 set mouse=a
-"set number
+set number
 set relativenumber
 set cursorline
 set shiftwidth=4
