@@ -71,7 +71,9 @@ ZSH_THEME="robbyrussellarrows"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(
 	extract
+#git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ~/.oh-my-zsh/custom/plugins/zsh-syntax-highlighting
 	zsh-syntax-highlighting
+#git clone https://github.com/zsh-users/zsh-autosuggestions ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions
 #	zsh-autosuggestions
 )
 

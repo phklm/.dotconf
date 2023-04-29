@@ -3,8 +3,8 @@ set mouse=a
 "set number
 set relativenumber
 set cursorline
-set shiftwidth=2
-set tabstop=2
+set shiftwidth=4
+set tabstop=4
 set nowrap
 set incsearch
 set ignorecase
