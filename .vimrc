@@ -22,10 +22,7 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
-Plugin 'dracula/vim'
 call vundle#end()            " required
 filetype plugin indent on    " required
 
-"set termguicolors
-"colorscheme dracula
 let g:airline_powerline_fonts = 1
